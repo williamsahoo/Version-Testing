@@ -1,0 +1,18 @@
+body{
+    margin: 0;
+    padding: 0;
+
+}
+header{
+    background-color: red;
+}
+
+nav ul {
+    display:  flex;
+
+}
+
+.nav-hdr {
+    display:  flex;
+    padding: 10px;
+    text-align: Right;}
